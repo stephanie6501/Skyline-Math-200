@@ -1,4 +1,5 @@
 Date,Day of the Week,Amount,Description,Category ,Method of Payment,Need/Want/Saving
+01/26/24,Friday,0,,Housing,Cash,Need
 01/27/24,Saturday,25,Chick fil a ,Food,Cash,Want
 01/28/24,Sunday,12,Parking lot,Travel,Debit,Want
 01/29/24,Monday,5,starbucks ,Food,Debit,Want
@@ -7,3 +8,6 @@ Date,Day of the Week,Amount,Description,Category ,Method of Payment,Need/Want/Sa
 02/01/24,Thursday,10,candy,Food,Cash,Want
 02/03/24,Saturday,20,drinks,Food,Debit,Want
 02/04/24,Sunday,7,drinks,Food,Debit,Need
+02/05/24,Monday,200,Gifts,Entertainment and Recreation,Debit,Want
+02/06/24,Tuesday,7,water,Food,Debit,Want
+02/07/24,Wednesday,15,starbucks ,Food,Debit,Want
